@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm a Junior Data Analytics Engineer 👋
 
-<!--
-**animePawss/animePawss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 Skills
+- Python (pandas)
+- SQL (JOIN, GROUP BY)
+- Data Analysis
+- Data Visualization (matplotlib)
+- API (requests)
+- Data Quality
 
-Here are some ideas to get you started:
+## 📊 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔹 Data Quality Project
+Data loading from API, data cleaning and validation  
+👉 https://github.com/animePawss/data-quality-project
+
+### 🔹 KPI Dashboard Project
+Sales analysis and KPI metrics with visualization  
+
+### 🔹 SQL Sales Analysis
+Database design and analytical SQL queries  
+
+### 🔹 User Analytics Project
+User data analysis with Python and charts  
+
+## 🚀 Currently learning
+- Data Engineering
+- BI tools (Power BI / Metabase)
+- Advanced SQL
