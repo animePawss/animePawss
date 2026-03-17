@@ -11,19 +11,14 @@
 ## 📊 Projects
 
 ### 🔹 Data Quality Project
-Data loading from API, data cleaning and validation  
+Data loading from API, data cleaning, validation and analysis  
 👉 https://github.com/animePawss/data-quality-project
 
 ### 🔹 KPI Dashboard Project
-Sales analysis and KPI metrics with visualization  
+Sales analysis, KPI metrics calculation and data visualization  
 
 ### 🔹 SQL Sales Analysis
-Database design and analytical SQL queries  
+Database design, JOIN queries and analytical data aggregation  
 
 ### 🔹 User Analytics Project
-User data analysis with Python and charts  
-
-## 🚀 Currently learning
-- Data Engineering
-- BI tools (Power BI / Metabase)
-- Advanced SQL
+User data analysis, metrics calculation and visualization  
